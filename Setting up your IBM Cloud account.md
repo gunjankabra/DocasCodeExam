@@ -7,10 +7,10 @@ layout: demotemplate1
 Complete the following steps to set your preferences for receiving various types of notifications:
 
 1. To receive notifications about IBM Cloud platform-related, or resource-related items, go to the **Avatar** icon ![Avatar Logo](/DocasCodeExam/assets/images/icon.png "Avatar icon") **Profile > Notification preferences**.
+
+ * AA
  
- * ABC
- 
- * ABC1 
+ * BB
  
 2. To receive spending notifications, go to **Manage > Billing and usage > Spending notifications** in the IBM Cloud console. Or, you can access it directly from the [Notification preferences](https://cloud.ibm.com/login?redirect=%2Fuser%2Fnotifications) page by clicking Manage in the Billing and Usage section.
 
