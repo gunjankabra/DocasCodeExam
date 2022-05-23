@@ -11,9 +11,11 @@ Complete the following steps to set your preferences for receiving various types
    - When you set IBM Cloud platform notifications, you receive email notifications that are associated with only the platform. 
      You do not receive notifications about events that are associated with IBM Cloud services. By default, all platform notifications 
 	 are turned off.
+	 
    - If you update your preferences on resource activity, such as incidents, maintenance, security bulletins, or infrastructure service updates, 
      the notifications are for only the services you use or the devices that you have provisioned. By default, all infrastructure notifications 
 	 are turned off.
+	 
 2. To receive spending notifications, go to **Manage > Billing and usage > Spending notifications** in the IBM Cloud console. Or, you can access it 
    directly from the [Notification preferences](https://cloud.ibm.com/login?redirect=%2Fuser%2Fnotifications) page by clicking **Manage** in 
    the **Billing and Usage** section.
@@ -32,7 +34,10 @@ IAM access groups provide a way for you to quickly and easily assign access to m
      b. Click **Create**.
 	 
 	 c. Enter a name for your group, and click **Create**. For example, if you know multiple users in your account need to be able to apply subscription 
-		codes, track usage, or perform other billed-related tasks, you might name your group ```Billing-Editor-Access```.
+		codes, track usage, or perform other billed-related tasks, you might name your group ```
+		
+		Billing-Editor-Access		
+		```.
 	  
 2. Assign access to the group.
 
@@ -56,5 +61,8 @@ You can use the Support Center to get help with any issues that you might encoun
 bar.
 
 - The Help just for you section features links to common tasks, troubleshooting, and FAQs specific to the resources in your account.
+
 - The Featured FAQs section provides FAQs related to platform tasks, for example, resetting your password, IAM, and upgrading your account.
+
 - The Contact support section provides the options for getting in touch with a support representative: start a live chat, contact by phone, or create a support case.
+
