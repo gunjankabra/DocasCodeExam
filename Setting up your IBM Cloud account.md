@@ -1,6 +1,3 @@
----
-layout: demotemplate1
----
 
 # Step 5: Set preferences for receiving notifications
 
