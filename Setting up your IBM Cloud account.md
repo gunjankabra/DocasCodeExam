@@ -16,5 +16,20 @@ Complete the following steps to set your preferences for receiving various types
 
 You receive notifications when you reach 80%, 90%, and 100% of the spending thresholds that you specify. Enter the dollar amount to set a spending threshold when you set up your spending notification. For more information, see [Setting spending notifications](https://cloud.ibm.com/docs/billing-usage?topic=billing-usage-spending).
 
+# Step 7: Set up access
+
+IAM access groups provide a way for you to quickly and easily assign access to multiple resources in your account at one time.
+
+1. Create an access group.
+
+   a. Go to **Manage > Access (IAM) > Access Groups** in the IBM Cloud console.
+   
+   b. Click **Create**.
+   
+   c. Enter a name for your group, and click Create. For example, if you know multiple users in your account need to be able to apply subscription codes, track usage, or perform other billed-related tasks, you might name your group '''Billing-Editor-Access'''.
+
+2. Assign access to the group.
+   
+   
  
    
